@@ -4,20 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="a5170b95-6d39-41ee-8561-2ee177297398" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="24eeb21e-3880-4f7c-81fd-c5fab37a8cb5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/perfulandia-backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pedidoservice/src/main/java/com/perfulandia_backend/pedidoservice/controller/PedidoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pedidoservice/src/main/java/com/perfulandia_backend/pedidoservice/model/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pedidoservice/src/main/java/com/perfulandia_backend/pedidoservice/repository/PedidoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pedidoservice/src/main/java/com/perfulandia_backend/pedidoservice/service/PedidoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/perfulandia-backend-01V-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedidoservice/src/main/java/com/perfulandia_backend/pedidoservice/PedidoserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedidoservice/src/main/java/com/perfulandia_backend/pedidoservice/PedidoserviceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pedidoservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pedidoservice/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservice/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservice/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservice/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/productservice/.idea/productservice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarioservice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarioservice/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarioservice/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarioservice/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarioservice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarioservice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarioservice/.idea/usuarioservice.iml" beforeDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< Updated upstream
   <component name="ChangesViewManager">
     <option name="groupingKeys">
       <option value="directory" />
       <option value="repository" />
     </option>
   </component>
+=======
+>>>>>>> Stashed changes
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -43,7 +79,11 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
+<<<<<<< Updated upstream
   <component name="ProjectId" id="2xlAmWvORYMYRw8hZxJRvmi7fXt" />
+=======
+  <component name="ProjectId" id="2xknhf9xhsCu9xHrAGqFo50XSFb" />
+>>>>>>> Stashed changes
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -54,8 +94,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+<<<<<<< Updated upstream
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+=======
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.PedidoserviceApplication.executor": "Debug",
+>>>>>>> Stashed changes
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
@@ -65,11 +116,15 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+<<<<<<< Updated upstream
     "run.configurations.included.in.services": "true",
+=======
+>>>>>>> Stashed changes
     "settings.editor.selected.configurable": "configurable.group.build",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected="Spring Boot.ReviewserviceApplication">
     <configuration name="CarritoserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -91,6 +146,13 @@
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="reviewservice" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.perfulandia.reviewservice.ReviewserviceApplication" />
+=======
+  <component name="RunManager" selected="Spring Boot.PedidoserviceApplication">
+    <configuration name="PedidoserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="pedidoservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.perfulandia_backend.pedidoservice.PedidoserviceApplication" />
+>>>>>>> Stashed changes
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,12 +176,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="a5170b95-6d39-41ee-8561-2ee177297398" name="Changes" comment="" />
       <created>1748502446130</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748502446130</updated>
       <workItem from="1748502447351" duration="1245000" />
+=======
+      <changelist id="24eeb21e-3880-4f7c-81fd-c5fab37a8cb5" name="Changes" comment="" />
+      <created>1748491060232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748491060232</updated>
+      <workItem from="1748491061438" duration="3388000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
