@@ -5,22 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5170b95-6d39-41ee-8561-2ee177297398" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/reviewservice/src/main/java/com/perfulandia/reviewservice/controller/ReviewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reviewservice/src/main/java/com/perfulandia/reviewservice/model/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reviewservice/src/main/java/com/perfulandia/reviewservice/repository/ReviewRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reviewservice/src/main/java/com/perfulandia/reviewservice/service/ReviewService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reviewservice/src/main/java/com/perfulandia/reviewservice/ReviewserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/reviewservice/src/main/java/com/perfulandia/reviewservice/ReviewserviceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reviewservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/reviewservice/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -123,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748502446130</updated>
-      <workItem from="1748502447351" duration="904000" />
+      <workItem from="1748502447351" duration="1245000" />
     </task>
     <servers />
   </component>
