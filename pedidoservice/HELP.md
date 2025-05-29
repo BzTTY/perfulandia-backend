@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'com.perfulandia-backend.pedidoservice' is invalid and this project uses 'com.perfulandia_backend.pedidoservice' instead.
-
 # Getting Started
 
 ### Reference Documentation
