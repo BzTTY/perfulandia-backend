@@ -4,71 +4,95 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25b80f18-c26a-47a0-9e3f-1ea297980055" name="Changes" comment="" />
+    <list default="true" id="fbdf4845-f053-402c-8972-97dba0e4872d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/052c0742-84ae-47d7-8a64-ce52fd3f13d1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/052c0742-84ae-47d7-8a64-ce52fd3f13d1/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/052c0742-84ae-47d7-8a64-ce52fd3f13d1/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/052c0742-84ae-47d7-8a64-ce52fd3f13d1/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/052c0742-84ae-47d7-8a64-ce52fd3f13d1/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/40545088-bd88-4307-a908-4c38897b6195.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/40545088-bd88-4307-a908-4c38897b6195/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/40545088-bd88-4307-a908-4c38897b6195/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/40545088-bd88-4307-a908-4c38897b6195/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/40545088-bd88-4307-a908-4c38897b6195/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/Carrito$CarritoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/Carrito$CarritoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/Carrito.class" beforeDir="false" afterPath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/Carrito.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/ItemCarrito$ItemCarritoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/ItemCarrito$ItemCarritoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/ItemCarrito.class" beforeDir="false" afterPath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/ItemCarrito.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;BzTTY&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BzTTY"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/BzTTY/perfulandia-backend.git&quot;,
-    &quot;accountId&quot;: &quot;f3bb3578-2722-4658-9594-b35788cb5aa2&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BzTTY/perfulandia-backend.git",
+    "accountId": "f3bb3578-2722-4658-9594-b35788cb5aa2"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2xkx1VS7eOEuJvveeJtSMy5YNdT" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2xl2mS1oqsxpOSUwZ3fWx9lINE8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Spring Boot.PedidoserviceApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ellit/OneDrive/Escritorio/Escritorio/FullStack/GIT CLONE PERFULANDIA/perfulandia-backend&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.CarritoserviceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/ellit/OneDrive/Escritorio/Escritorio/FullStack/GIT CLONE PERFULANDIA/perfulandia-backend/carritoservice/src/main/java/com/perfulandia/carritoservice/model",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Spring Boot.PedidoserviceApplication">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ellit\OneDrive\Escritorio\Escritorio\FullStack\GIT CLONE PERFULANDIA\perfulandia-backend\carritoservice\src\main\java\com\perfulandia\carritoservice\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CarritoserviceApplication">
+    <configuration name="CarritoserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="carritoservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.perfulandia.carritoservice.CarritoserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PedidoserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="pedidoservice" />
@@ -93,11 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Spring Boot.PedidoserviceApplication" />
-      <item itemvalue="Spring Boot.ProductserviceApplication" />
-      <item itemvalue="Spring Boot.UsuarioserviceApplication" />
-    </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -109,13 +128,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="25b80f18-c26a-47a0-9e3f-1ea297980055" name="Changes" comment="" />
-      <created>1748495657646</created>
+      <changelist id="fbdf4845-f053-402c-8972-97dba0e4872d" name="Changes" comment="" />
+      <created>1748498498362</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1748495657646</updated>
-      <workItem from="1748495658814" duration="810000" />
-      <workItem from="1748496482521" duration="1582000" />
+      <updated>1748498498362</updated>
+      <workItem from="1748498499482" duration="2453000" />
     </task>
     <servers />
   </component>
