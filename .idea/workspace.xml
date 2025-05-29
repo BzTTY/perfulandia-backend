@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25b80f18-c26a-47a0-9e3f-1ea297980055" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/perfulandia-backend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidoservice/src/main/java/com/perfulandia/pedidoservice/controller/PedidoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidoservice/src/main/java/com/perfulandia/pedidoservice/model/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidoservice/src/main/java/com/perfulandia/pedidoservice/repository/PedidoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidoservice/src/main/java/com/perfulandia/pedidoservice/service/PedidoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cartservice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/perfulandia-backend-01V-master.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cartservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cartservice/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedidoservice/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/pedidoservice/HELP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedidoservice/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/pedidoservice/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedidoservice/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/pedidoservice/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedidoservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pedidoservice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedidoservice/src/main/java/com/perfulandia/pedidoservice/PedidoserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedidoservice/src/main/java/com/perfulandia/pedidoservice/PedidoserviceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedidoservice/src/main/java/com/perfulandia_backend/pedidoservice/PedidoserviceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedidoservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pedidoservice/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedidoservice/src/test/java/com/perfulandia/pedidoservice/PedidoserviceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/pedidoservice/src/test/java/com/perfulandia/pedidoservice/PedidoserviceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pedidoservice/src/test/java/com/perfulandia_backend/pedidoservice/PedidoserviceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/productservice/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/productservice/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/productservice/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/productservice/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/productservice/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/productservice/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/productservice/.idea/productservice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuarioservice/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuarioservice/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuarioservice/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuarioservice/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuarioservice/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuarioservice/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/usuarioservice/.idea/usuarioservice.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="25b80f18-c26a-47a0-9e3f-1ea297980055" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748495657646</updated>
       <workItem from="1748495658814" duration="810000" />
-      <workItem from="1748496482521" duration="1224000" />
+      <workItem from="1748496482521" duration="1473000" />
     </task>
     <servers />
   </component>
