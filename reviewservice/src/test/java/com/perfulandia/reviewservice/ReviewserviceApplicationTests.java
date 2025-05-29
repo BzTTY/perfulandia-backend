@@ -1,10 +1,10 @@
-package com.perfulandia.cartservice;
+package com.perfulandia.reviewservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CartserviceApplicationTests {
+class ReviewserviceApplicationTests {
 
 	@Test
 	void contextLoads() {
