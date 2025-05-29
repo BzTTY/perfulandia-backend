@@ -4,33 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbdf4845-f053-402c-8972-97dba0e4872d" name="Changes" comment="">
+    <list default="true" id="a5170b95-6d39-41ee-8561-2ee177297398" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/reviewservice/src/main/java/com/perfulandia/reviewservice/controller/ReviewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reviewservice/src/main/java/com/perfulandia/reviewservice/model/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reviewservice/src/main/java/com/perfulandia/reviewservice/repository/ReviewRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reviewservice/src/main/java/com/perfulandia/reviewservice/service/ReviewService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/052c0742-84ae-47d7-8a64-ce52fd3f13d1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/052c0742-84ae-47d7-8a64-ce52fd3f13d1/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/052c0742-84ae-47d7-8a64-ce52fd3f13d1/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/052c0742-84ae-47d7-8a64-ce52fd3f13d1/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/052c0742-84ae-47d7-8a64-ce52fd3f13d1/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/40545088-bd88-4307-a908-4c38897b6195.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/40545088-bd88-4307-a908-4c38897b6195/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/40545088-bd88-4307-a908-4c38897b6195/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/40545088-bd88-4307-a908-4c38897b6195/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/40545088-bd88-4307-a908-4c38897b6195/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/Carrito$CarritoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/Carrito$CarritoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/Carrito.class" beforeDir="false" afterPath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/Carrito.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/ItemCarrito$ItemCarritoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/ItemCarrito$ItemCarritoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/ItemCarrito.class" beforeDir="false" afterPath="$PROJECT_DIR$/carritoservice/target/classes/com/perfulandia/carritoservice/model/ItemCarrito.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewservice/src/main/java/com/perfulandia/reviewservice/ReviewserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/reviewservice/src/main/java/com/perfulandia/reviewservice/ReviewserviceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reviewservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/reviewservice/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +47,10 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="2xl2mS1oqsxpOSUwZ3fWx9lINE8" />
+  <component name="ProjectId" id="2xlAmWvORYMYRw8hZxJRvmi7fXt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,17 +58,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "Spring Boot.CarritoserviceApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/ellit/OneDrive/Escritorio/Escritorio/FullStack/GIT CLONE PERFULANDIA/perfulandia-backend/carritoservice/src/main/java/com/perfulandia/carritoservice/model",
+    "last_opened_file_path": "C:/Users/ellit/OneDrive/Escritorio/Escritorio/FullStack/GIT CLONE PERFULANDIA/perfulandia-backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,12 +74,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ellit\OneDrive\Escritorio\Escritorio\FullStack\GIT CLONE PERFULANDIA\perfulandia-backend\carritoservice\src\main\java\com\perfulandia\carritoservice\model" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Spring Boot.CarritoserviceApplication">
+  <component name="RunManager" selected="Spring Boot.ReviewserviceApplication">
     <configuration name="CarritoserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="carritoservice" />
@@ -93,18 +83,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PedidoserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="pedidoservice" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.perfulandia.pedidoservice.PedidoserviceApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ProductserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="productservice" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.perfulandia.productservice.ProductserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="reviewservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.perfulandia.reviewservice.ReviewserviceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,12 +118,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fbdf4845-f053-402c-8972-97dba0e4872d" name="Changes" comment="" />
-      <created>1748498498362</created>
+      <changelist id="a5170b95-6d39-41ee-8561-2ee177297398" name="Changes" comment="" />
+      <created>1748502446130</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1748498498362</updated>
-      <workItem from="1748498499482" duration="2453000" />
+      <updated>1748502446130</updated>
+      <workItem from="1748502447351" duration="904000" />
     </task>
     <servers />
   </component>
